@@ -1,5 +1,5 @@
 {
-  "name": "ahmad-salah",
+  "name": "taha",
   "version": "0.0.0-development",
   "type": "module",
   "main": "index.js",
@@ -10,16 +10,16 @@
     "commit": "git-cz"
   },
   "bin": {
-    "ahmad-salah": "index.js"
+    "taha": "index.js"
   },
   "keywords": [
-    "ahmad salahuddeen",
-    "salahcodes",
-    "ahmad-salah"
+    "syed muhammad taha",
+    "taha dev",
+    "taha"
   ],
   "author": "",
   "license": "ISC",
-  "description": "cli portfolio for ahmad salahuddeen",
+  "description": "cli portfolio for syed muhammad taha",
   "dependencies": {
     "boxen": "^7.1.1",
     "colors": "^1.4.0",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmadsalahuddeen/npx-ahmad-salah.git"
+    "url": "git+https://github.com/Syed-MuhammadTaha/npx.git"
   },
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
